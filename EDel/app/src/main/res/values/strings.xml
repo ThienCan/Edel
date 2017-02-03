@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EDel</string>
+    <string name="edt_email">Please enter your email</string>
+    <string name="edt_password">Please enter your password</string>
+    <string name="label">EDel</string>
+    <string name="connect_social">Connect with social network</string>
+    <string name="login_email">Login with your email address</string>
+    <string name="sign_up">Sign up ?</string>
+
+
+</resources>
